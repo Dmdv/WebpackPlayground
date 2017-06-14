@@ -1,0 +1,17 @@
+npm i jquery --save
+npm i babel-loader babel-core babel-preset-
+npm i babel-loader babel-core babel-preset
+npm i babel-loader babel-core
+npm i babel-loader babel-core babel-preset-2015  --save
+npm i babel-loader babel-core babel-preset-es2015 --save
+npm i raw-loader jade-html-loader jade --save
+npm i style-loader stylus-order css-loader --save
+npm i style-loader css-loader --save
+npm install stylus-loader stylus
+npm install stylus-loader stylus --save
+
+
+npm install
+npm install webpack@2.1.0-beta.21 --save-dev
+npm i webpack babel-polyfill --save
+npm run-script webpack

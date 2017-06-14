@@ -1,0 +1,4 @@
+npm uninstall webpack --save
+npm install webpack@2.1.0-beta.21 --save
+npm uninstall "@types/selenium-webdriver" --save
+npm install "@types/selenium-webdriver@2.44.26" --save

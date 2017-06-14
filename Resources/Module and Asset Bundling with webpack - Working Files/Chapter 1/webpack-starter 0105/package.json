@@ -1,0 +1,14 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch --progress --colors"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "babel-polyfill": "6.2.x",
+    "webpack": "1.12.x"
+  }
+}

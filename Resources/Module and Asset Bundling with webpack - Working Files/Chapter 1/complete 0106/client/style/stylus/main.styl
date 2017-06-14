@@ -1,0 +1,26 @@
+@import '~jeet/stylus/jeet/index.styl'
+
+*
+  box-sizing: border-box
+
+body
+  background: no-repeat center url('../images/background.jpg')
+  background-size: 100%
+
+div.col
+  border: 1px solid lighten(black, 90%)
+  border-radius: 5px 5px 5px 5px
+  padding: 10px
+  column(1/2, gutter: 5)
+  height: 500px
+  background-size: 100%
+
+p
+  user-select: none
+  text-align: center
+
+div.one
+  background: no-repeat center url('../images/js-logo.png')
+
+div.two
+  background: no-repeat center url('../images/stylus-logo.png')

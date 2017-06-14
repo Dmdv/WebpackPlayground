@@ -1,0 +1,12 @@
+{
+  "name": "webpack-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch --progress --colors"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "1.12.x"
+  }
+}
